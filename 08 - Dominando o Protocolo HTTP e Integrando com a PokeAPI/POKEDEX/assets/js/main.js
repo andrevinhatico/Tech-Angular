@@ -12,7 +12,7 @@ function convertPokemonToLi(pokemon) {
                     <li class="type">poison</li>
                 </ol>
 
-                <img src="https://seeklogo.com/images/B/bulbasaur-logo-8A27924C02-seeklogo.com.png" alt="${pokemon.name}">
+                <img  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg" alt="${pokemon.name}">
 
             </div>
 
